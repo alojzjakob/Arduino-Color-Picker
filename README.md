@@ -1,6 +1,8 @@
 # Arduino-Color-Picker
 Color Picker for Arduino, using TCS34725 RGB Color Sensor
 
+[![ko-fi](https://www.ko-fi.com/img/donate_sm.png)](https://ko-fi.com/A654MLL)
+
 TCS34725 RGB Color Sensor For Arduino
 https://www.dfrobot.com/product-1546.html
 https://www.dfrobot.com/wiki/index.php/TCS34725_I2C_Color_Sensor_For_Arduino_SKU:_SEN0212
